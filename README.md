@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/ViswajithJ/ViswajithJ/blob/main/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Viswajith J</h1>
+<h1 align="center">Hi there👋, I'm Viswajith J</h1>
 <h3 align="center">A coding enthusiast/student on a journey to explore the world of technology.</h3><br><br>
 <img align="right" alt="Coding" width="400" src="https://github.com/ViswajithJ/ViswajithJ/blob/main/ghcoding.gif">
 
