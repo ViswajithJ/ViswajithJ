@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **viswajith.j.official@gmail.com**
 
-- ⚡ Fun fact **"Debugging is like being the detective in a crime movie where you are also the murderer" - Filipe Fortes**
+- ⚡ Fun fact : **"Debugging is like being the detective in a crime movie where you are also the murderer" - Filipe Fortes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
