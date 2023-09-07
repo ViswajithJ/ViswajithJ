@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **viswajith.j.official@gmail.com**
 
-- ⚡ Fun fact : **"Fun?! Wot's that**
+- ⚡ Fun fact : **"Fun?! Wot's that"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
