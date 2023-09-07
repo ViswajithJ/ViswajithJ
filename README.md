@@ -4,17 +4,17 @@
 <h3 align="center">A coding enthusiast/student on a journey to explore the world of technology.</h3><br><br>
 <img align="right" alt="Coding" width="400" src="https://github.com/ViswajithJ/ViswajithJ/blob/main/ghcoding.gif">
 
-- 🌱 I’m currently learning **Flutter, Web-dev**
+- 🌱 I’m currently learning **Cybersecurity Fundamentals and Web-development**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
 - 🌟 I'm interested in **Web-dev, App-dev, and Cyber Security**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Cybersecurity**
 
 - 📫 How to reach me **viswajith.j.official@gmail.com**
 
-- ⚡ Fun fact : **"Debugging is like being the detective in a crime movie where you are also the murderer" - Filipe Fortes**
+- ⚡ Fun fact : **"Fun?! Wot's that**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
