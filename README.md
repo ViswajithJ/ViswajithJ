@@ -31,7 +31,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=viswajithj&show_icons=true&locale=en" alt="viswajithj" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viswajithj&" alt="viswajithj" /></p>
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viswajithj&" alt="viswajithj" /></p>-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ViswajithJ)](https://git.io/streak-stats)
 
 
 
