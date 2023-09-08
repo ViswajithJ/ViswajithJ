@@ -21,6 +21,7 @@
 <!--<a href="https://twitter.com/viswa_codez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viswa_codez" height="30" width="40" /></a>-->
 <!--<a href="https://linkedin.com/in/viswajithj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswajithj" height="30" width="40" /></a>-->
 <!--<a href="https://instagram.com/dreamcoder_1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreamcoder_1337" height="30" width="40" /></a>-->
+
 [![My Contacts](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/viswajithj)
 [![My Contacts](https://skillicons.dev/icons?i=instagram)](https://instagram.com/dreamcoder_1337)
 
