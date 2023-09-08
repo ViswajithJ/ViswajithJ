@@ -31,7 +31,6 @@
 
 [![My Languages](https://skillicons.dev/icons?i=c,bash,py,html,css,java,mysql&theme=light)](https://skillicons.dev)
 
-<br>
 <h3 align="left">Tools:</h3>
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=light)](https://skillicons.dev)
