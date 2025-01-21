@@ -1,5 +1,7 @@
 ![MasterHead](assets/github-header-image.png)
 
+[//]: # (This may be the most platform independent comment)
+
 <h1 align="center">Hi there👋, I'm Viswajith J</h1>
 <h3 align="center">A coding enthusiast/student on a journey to explore the world of technology.</h3><br><br>
 <img align="right" alt="Coding" width="400" src="assets/ghcoding.gif">
